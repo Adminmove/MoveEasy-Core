@@ -1,0 +1,6 @@
+npm install -g @railway/cli
+railway login
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
